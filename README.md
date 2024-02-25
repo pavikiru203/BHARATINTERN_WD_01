@@ -1,7 +1,4 @@
 # BHARATINTERN_WD_01
-Certainly! Here's a README template for a portfolio website built using HTML and CSS:
-
----
 
 # Portfolio Website
 
